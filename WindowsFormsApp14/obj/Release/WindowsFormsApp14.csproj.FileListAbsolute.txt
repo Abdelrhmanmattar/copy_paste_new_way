@@ -1,0 +1,14 @@
+D:\WindowsFormsApp14\bin\Release\WindowsFormsApp14.exe.config
+D:\WindowsFormsApp14\bin\Release\WindowsFormsApp14.exe
+D:\WindowsFormsApp14\bin\Release\WindowsFormsApp14.pdb
+D:\WindowsFormsApp14\bin\Release\SharpClipboard.dll
+D:\WindowsFormsApp14\bin\Release\SharpClipboard.xml
+D:\WindowsFormsApp14\obj\Release\WindowsFormsApp14.csproj.AssemblyReference.cache
+D:\WindowsFormsApp14\obj\Release\WindowsFormsApp14.csproj.SuggestedBindingRedirects.cache
+D:\WindowsFormsApp14\obj\Release\WindowsFormsApp14.Form1.resources
+D:\WindowsFormsApp14\obj\Release\WindowsFormsApp14.Properties.Resources.resources
+D:\WindowsFormsApp14\obj\Release\WindowsFormsApp14.csproj.GenerateResource.cache
+D:\WindowsFormsApp14\obj\Release\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp14\obj\Release\WindowsFormsApp14.csproj.CopyComplete
+D:\WindowsFormsApp14\obj\Release\WindowsFormsApp14.exe
+D:\WindowsFormsApp14\obj\Release\WindowsFormsApp14.pdb
